@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 My intrests are **Web Development & ML**
+- 🌱 My interests are **Web Development & ML**
 
 - 📫 How to reach me **divakar2163@gmail.com**
 
