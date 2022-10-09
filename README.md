@@ -23,5 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diva-21&show_icons=true&locale=en&layout=compact" alt="diva-21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diva-21&show_icons=true&locale=en" alt="diva-21" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diva-21&" alt="diva-21" /></p>
+
