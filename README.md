@@ -7,12 +7,14 @@
 
 - 🌱My intrests are **ML & Web Development**
 
+- 📝 I regularly write articles on [medium](https://medium.com/@divakar2163)
+
 - 📫 How to reach me **divakar2163@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/divakar2163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divakar2163" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/l-divakar-102205215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l divakar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/l divakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l divakar" height="30" width="40" /></a>
 <a href="https://medium.com/@divakar2163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@divakar2163" height="30" width="40" /></a>
 </p>
 
