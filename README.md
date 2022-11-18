@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Divakar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diva-21&label=Profile%20views&color=0e75b6&style=flat" alt="diva-21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diva-21&label=Visitors&color=0e75b6&style=flat" alt="diva-21" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diva-21" alt="diva-21" /></a> </p>
 
-- 🌱My intrests are **ML & Web Development**
+- 🌱My interests are **ML & Web Development**
 
 - 📝 I regularly write articles on [medium](https://medium.com/@divakar2163)
 
