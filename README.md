@@ -7,7 +7,7 @@
 
 - 🌱My interests are **ML & Web Development**
 
-- 📝 I regularly write articles on [medium](https://medium.com/@divakar2163)
+<!-- - 📝 I regularly write articles on [medium](https://medium.com/@divakar2163) -->
 
 - 📫 How to reach me **divakar2163@gmail.com**
 
