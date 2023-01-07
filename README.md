@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divakar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diva-21&label=Visitors&color=0e75b6&style=flat" alt="diva-21" /></p>
+## Thank you for the visit_Please give a Star if you like.
 
+![](http://profile-counter.glitch.me/diva-21/count.svg)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diva-21" alt="diva-21" /></a> </p>
 
 - 🌱My interests are **ML & Web Development**
