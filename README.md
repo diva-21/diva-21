@@ -22,3 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=diva-21&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diva-21&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diva-21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diva-21&bg_color=0d0d0d&color=d52ab3&line=2388a9&point=a144cf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
