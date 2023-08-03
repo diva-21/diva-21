@@ -1,5 +1,4 @@
-# 💫 About Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diva-21" alt="diva-21" /></p>
+
 <h1 align="center">Hi 👋, I'm Divakar</h1>
 <div align="center">
 <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width='200' height='200'></img>
