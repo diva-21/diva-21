@@ -11,10 +11,6 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Blockchain**
-
-- 📫 How to reach me **divakar2163@gmail.com**
-
 - ⚡ Fun fact **Building with quality code**
 
 <h3 align="left">Connect with me:</h3>
@@ -37,8 +33,3 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diva-21&show_icons=true&locale=en&layout=compact" alt="diva-21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diva-21&show_icons=true&locale=en" alt="diva-21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diva-21&" alt="diva-21" /></p>
